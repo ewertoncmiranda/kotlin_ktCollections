@@ -5,8 +5,8 @@ fun main(){
 
     println("*****************************************")
 
-    println("Maior Salario : "+ paymentList.max())
-    println("Menorr Salario : "+ paymentList.min())
+    println("Maior Salario : "+ paymentList.maxOrNull())
+    println("Menorr Salario : "+ paymentList.minOrNull())
     println("Média Salarial : "+ paymentList.average())
 
 
