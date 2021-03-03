@@ -30,7 +30,4 @@ fun main(){
     println("*****************************************")
     /*retorna um booleano atendendo a expressão passada*/
     println(paymentList.any { it > 7000.00 })
-
-    
-
-}
+    }
